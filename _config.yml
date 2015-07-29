@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 1
+typography_spectrum: 0.75984
 cta:
   domain: null
   bucket: null
@@ -15,11 +15,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#93d282'
+    - '#000000'
+    - '#6f6f6f'
+    - '#2d2d2d'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose:
   - name: sign-ups
     item: null
