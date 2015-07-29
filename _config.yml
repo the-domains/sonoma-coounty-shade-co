@@ -23,7 +23,7 @@ color:
     - '#2d2d2d'
   brandStrength: 0
   lightness: 1
-  saturation: 0.25
+  saturation: 0.9375
   rhythmicContrast: 0.75
 purpose:
   - name: sign-ups
