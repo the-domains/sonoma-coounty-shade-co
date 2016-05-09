@@ -1,7 +1,7 @@
 name: Sonoma County Shade Co.
 favicon: null
-layout_spectrum: 0.5203880115877837
-typography_spectrum: 0.7850012197159231
+layout_spectrum: 0.7900757160969079
+typography_spectrum: 0.22802199725992978
 cta:
   domain: null
   bucket: null
@@ -21,10 +21,10 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  brandStrength: 0.4840797744691372
-  lightness: 0.9949027139227837
-  saturation: 0.9693252961151302
-  rhythmicContrast: 0.015490437392145395
+  brandStrength: 0.2752647192683071
+  lightness: 0.8796678367070854
+  saturation: 0.2360990704037249
+  rhythmicContrast: 0.8362571757752448
 purpose:
   - name: sign-ups
     item: null
