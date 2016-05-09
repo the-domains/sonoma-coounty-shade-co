@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-05-09T19:48:51.871Z'
+datePublished: '2016-05-09T20:04:13.358Z'
 author: []
-dateModified: '2016-05-09T19:48:51.766Z'
+dateModified: '2016-05-09T20:04:13.259Z'
 title: How do you view Sonoma County?
 description: Our latest sign over hwy 101
 starred: false
